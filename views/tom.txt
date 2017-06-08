@@ -1,0 +1,10 @@
+http://www.guru99.com/angularjs-events.html
+
+
+https://stackoverflow.com/questions/28086790/calculate-memory-games-score-based-on-the-number-of-attempts-time-spent-and
+
+https://stackoverflow.com/questions/27557859/how-can-i-get-the-click-count
+
+https://stackoverflow.com/questions/28428773/count-how-many-times-the-button-is-clicked-in-angularjs
+
+https://www.w3schools.com/angular/ng_ng-click.asp
